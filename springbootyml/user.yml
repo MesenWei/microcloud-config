@@ -1,1 +1,1 @@
-spring:  profiles:    active:    -dev---spring:  profiles: dev  application:    name: micro-server-config-test-dev    ---spring:  profiles: default  application:    name: micro-server-config-test-default
+spring:  profiles:    active: dev---spring:  profiles: dev  application:    name: micro-server-config-test-dev    ---spring:  profiles: default  application:    name: micro-server-config-test-default
