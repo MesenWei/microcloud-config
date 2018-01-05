@@ -26,4 +26,4 @@ security:
 spring:
   profiles: pro
   application:
-    name: ms5-scconfig-client-manualrefresh-propro
+    name: ms5-scconfig-client-manualrefresh-pro
