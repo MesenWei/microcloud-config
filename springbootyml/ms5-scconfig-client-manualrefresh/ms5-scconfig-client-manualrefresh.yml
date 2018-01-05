@@ -4,12 +4,6 @@ spring:
 ---
 server:
   port: 7203
-security:
-  basic:
-    enabled: true
-  user:
-    name: manualrefresh
-    password: dev123
 spring:
   profiles: dev
   application:
@@ -17,12 +11,6 @@ spring:
 ---
 server:
   port: 7203
-security:
-  basic:
-    enabled: true
-  user:
-    name: eurekapro
-    password: pro123
 spring:
   profiles: pro
   application:
